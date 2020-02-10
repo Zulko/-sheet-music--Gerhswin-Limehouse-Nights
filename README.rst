@@ -1,12 +1,12 @@
 Gershwin - Limehouse nights
 =============================
 
-This is a transcription of the piano piece Limehouse Nights by George Gershwin, composed and "performed" on a piano roll circa 1918. Here is the original_ and here is a transcription., 
+This is a transcription of the piano piece Limehouse Nights by George Gershwin, composed and "performed" on a piano roll circa 1918.
 
-The sheet music is presented as a LilyPond_ file, ``romance.ly``. To compile it into a beautiful PDF file, you
+The sheet music is presented as a LilyPond_ file, ``limehouse_edition.ly``. To compile it into a beautiful PDF file, you
 must have Lilypond installed, and type in a terminal: ::
     
-    lilypond romance.ly
+    lilypond limehouse_edition.ly
 
 
 I, the author of this transcription, wave any rights and place this work in the public domain.
